@@ -21,7 +21,7 @@
    Артефакты релиза: `X:\GeoMeta\Релизы\Версия релиза\Дистрибутивы\Products\IAS`  
    Сборка на GitLab: `https://gitlab.gemsdev.ru/gems/geometa/-/pipelines ---> Выбираем необходимый PipeLine ---> Скачиваем архив артефактов (build.geometa)`
 2. Перенести артефакты на сервер, например в папку: `/home/user/install/IAS`
-3. В командной строке запустить команду установки. Пример: `sudo bash /home/user/install/IAS/IASUnixDeploy -installDir=/opt/IAS -connectionString='Server=172.16.55.112;Port=5432;Database=mrvl;User Id=postgres;Password=Qwerty123$;Connection Idle Lifetime=5;Connection Pruning Interval=3; Maximum Pool Size=500;' -gHost=localhost -iasPublicOrigin=https://mrvl.gemsdev.ru -monitorPublicOrigin=https://monitor-mrvl.gemsdev.ru -importerPublicOrigin=https://importer-mrvl.gemsdev.ru -extraModule=Gems.Module.ReportLogger"`
+3. В командной строке выполнить установку. Пример: `sudo bash /home/user/install/IAS/IASUnixDeploy -installDir=/opt/IAS -connectionString='Server=172.16.55.112;Port=5432;Database=mrvl;User Id=postgres;Password=Qwerty123$;Connection Idle Lifetime=5;Connection Pruning Interval=3; Maximum Pool Size=500;' -gHost=localhost -iasPublicOrigin=https://mrvl.gemsdev.ru -monitorPublicOrigin=https://monitor-mrvl.gemsdev.ru -importerPublicOrigin=https://importer-mrvl.gemsdev.ru -extraModule=Gems.Module.ReportLogger"`
 4. Если нам необходимы доп. модули, то необходимо обратиться к справке по их установке. Как правило, необходимо просто докинуть модуль в папку модулей и перезагрузить приложение.
 
 ### Еще парочка моментов:
