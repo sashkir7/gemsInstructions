@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="471b8b71-37c9-439e-bff6-cfa0b81a756c" name="Changes" comment="1">
-      <change beforePath="$PROJECT_DIR$/instructions/abc.md" beforeDir="false" afterPath="$PROJECT_DIR$/instructions/Проливка метаданных.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/instructions/Установка Geometa с нуля.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,28 @@
       <option name="project" value="LOCAL" />
       <updated>1636956692811</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1">
+      <created>1636956850624</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1636956850624</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1">
+      <created>1636956886479</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1636956886479</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1">
+      <created>1636957021318</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1636957021318</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
