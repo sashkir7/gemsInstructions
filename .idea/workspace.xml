@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="471b8b71-37c9-439e-bff6-cfa0b81a756c" name="Changes" comment="1">
-      <change beforePath="$PROJECT_DIR$/instructions/Проливка метаданных.md" beforeDir="false" afterPath="$PROJECT_DIR$/instructions/Проливка метаданных.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instructions/abc.md" beforeDir="false" afterPath="$PROJECT_DIR$/instructions/Проливка метаданных.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,35 @@
       <option name="project" value="LOCAL" />
       <updated>1636955174213</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1636956484346</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636956484346</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1636956540998</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636956540998</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1">
+      <created>1636956574639</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636956574639</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1">
+      <created>1636956692811</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636956692811</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
